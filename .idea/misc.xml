@@ -3,17 +3,29 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.2203125" />
         <entry key="app/src/main/res/font/nunito_sans_semibold.xml" value="0.221875" />
         <entry key="app/src/main/res/font/roboto_thin.xml" value="0.221875" />
-        <entry key="app/src/main/res/layout/activity_booked_service.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/activity_booked_service.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_home_screen.xml" value="0.25" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19166666666666668" />
         <entry key="app/src/main/res/layout/activity_profile_page.xml" value="0.19166666666666668" />
-        <entry key="app/src/main/res/layout/activity_register_service.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/activity_register_service.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_signin.xml" value="0.19166666666666668" />
         <entry key="app/src/main/res/layout/activity_signup.xml" value="0.19166666666666668" />
         <entry key="app/src/main/res/layout/activity_welcome_screen.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/booked__service_fragment.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/dropdownlist.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/fragment_item_list_dialog_list_dialog.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/fragment_item_list_dialog_list_dialog_item.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/fragment_scrolling.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/home__screen_fragment.xml" value="0.19166666666666668" />
         <entry key="app/src/main/res/layout/jobs_applied_recycler_card.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/profile_fragment.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/service__register_fragment.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/sign_in_fragment.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/sign_up__fragment.xml" value="0.19166666666666668" />
+        <entry key="app/src/main/res/layout/welcome_fragment.xml" value="0.19166666666666668" />
       </map>
     </option>
   </component>

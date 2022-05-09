@@ -27,7 +27,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:background="#217BF4"
+                android:background="@color/blue_theme"
                 android:orientation="vertical"
                 android:padding="10dp">
 
@@ -35,15 +35,43 @@
                     android:id="@+id/headingTxt"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Microsoft"
+                    android:text="Serivce type"
                     android:textColor="@color/white"
                     android:textSize="30sp" />
 
                 <TextView
+                    android:id="@+id/cityTxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="City"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+                <TextView
                     android:id="@+id/designationTxt"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="Senior UI Designer"
+                    android:text="Serivce provider"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+                <TextView
+                    android:id="@+id/provinceTxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Provice"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+                <TextView
+                    android:id="@+id/discriptionTxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Discription"
+                    android:textColor="@color/white"
+                    android:textSize="16sp" />
+                <TextView
+                    android:id="@+id/availableTxt"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Available"
                     android:textColor="@color/white"
                     android:textSize="16sp" />
 
@@ -62,7 +90,7 @@
                         android:id="@+id/minmWageTxt"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text=" 800"
+                        android:text="Minimum wage"
                         android:textColor="@color/white"
                         android:textSize="18sp" />
                 </LinearLayout>

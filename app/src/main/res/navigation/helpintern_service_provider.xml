@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/helpintern_service_provider"
+    app:startDestination="@id/welcome_fragment2">
+    <fragment
+        android:id="@+id/welcome_fragment2"
+        android:name="com.shinto_pa.helpinternserviceactivity.View.Welcome_fragment"
+        android:label="welcome_fragment"
+        tools:layout="@layout/welcome_fragment" />
+    <fragment
+        android:id="@+id/signIn_Fragment"
+        android:name="com.shinto_pa.helpinternserviceactivity.View.SignIn_Fragment"
+        android:label="sign_in_fragment"
+        tools:layout="@layout/sign_in_fragment" />
+    <fragment
+        android:id="@+id/signUp_Fragment"
+        android:name="com.shinto_pa.helpinternserviceactivity.View.SignUp_Fragment"
+        android:label="sign_up__fragment"
+        tools:layout="@layout/sign_up__fragment" />
+    <fragment
+        android:id="@+id/service_Register_Fragment"
+        android:name="com.shinto_pa.helpinternserviceactivity.View.Service_Register_Fragment"
+        android:label="service__register_fragment"
+        tools:layout="@layout/service__register_fragment" />
+    <fragment
+        android:id="@+id/profile_Fragment"
+        android:name="com.shinto_pa.helpinternserviceactivity.View.Profile_Fragment"
+        android:label="profile_fragment"
+        tools:layout="@layout/profile_fragment" />
+    <fragment
+        android:id="@+id/booked_Service_Fragment"
+        android:name="com.shinto_pa.helpinternserviceactivity.View.Booked_Service_Fragment"
+        android:label="booked__service_fragment"
+        tools:layout="@layout/booked__service_fragment" />
+    <fragment
+        android:id="@+id/home_Screen_Fragment"
+        android:name="com.shinto_pa.helpinternserviceactivity.View.Home_Screen_Fragment"
+        android:label="home__screen_fragment"
+        tools:layout="@layout/home__screen_fragment" />
+</navigation>
